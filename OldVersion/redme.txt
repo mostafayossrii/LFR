@@ -1,0 +1,1 @@
+The old version was had 2 sensors ir and without pid using bang bang controller.
