@@ -1,1 +1,0 @@
-this final version is run with PD controller.
