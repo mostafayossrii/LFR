@@ -63,4 +63,4 @@ Tuning the PID controller is crucial for optimal performance. Start with small v
 4. The robot should start following the line automatically.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed.
