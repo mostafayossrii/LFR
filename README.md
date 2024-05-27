@@ -28,7 +28,6 @@ A line follower robot is an autonomous vehicle that follows a predefined path. T
 The circuit diagram for this project is as follows:
 ![Circuit Diagram](https://github.com/mostafayossrii/LFR/blob/main/OldVersion/Arduino-Line-Following-Robot-1024x922.png)
 
-[Include a link to the circuit diagram image or a Fritzing diagram here]
 ## Setup Instructions
 
 1. Wiring:
